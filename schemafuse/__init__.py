@@ -1,0 +1,1 @@
+from .loss import multiple_choice_cross_entropy

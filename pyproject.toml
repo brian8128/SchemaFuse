@@ -1,0 +1,19 @@
+[project]
+name = "schemafuse"
+version = "0.1.0"
+dependencies = [
+  "torch"
+]
+requires-python = ">=2.8"
+authors = [
+  {name = "Brian Bargh", email = "brian.bargh@gmail.com"},
+]
+maintainers = [
+  {name = "Brian Bargh", email = "brian.bargh@gmail.com"},
+]
+description = 'A package for training on multiple versions of a labling schema'
+readme = "README.md"
+license = {file = "LICENSE.txt"}
+
+[project.urls]
+Repository = "https://github.com/brian8128/SchemaFuse/"
